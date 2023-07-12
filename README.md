@@ -1,5 +1,6 @@
 
-![Poster](https://github.com/BOYKE09/Project-capstone-IL/blob/main/pattern.png)
+
+![Poster](https://github.com/BOYKE09/Project-capstone-IL/blob/main/Poster%20Kalsifikasi%20Gambar%20Resto%20(1).png)
 Sebagai Proyek Akhir Capstone Studi Independent Di Infinite Learning Indonesia
 
 # Informasi
