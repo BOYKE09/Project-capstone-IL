@@ -9,7 +9,7 @@ Sebagai Proyek Akhir Capstone Studi Independent Di Infinite Learning Indonesia
 | Pattern   |   Assemble a pizza-ordering chatbot dialog          |
 | Service IBM | Watson Assistant |
 
-#Alur
+# Alur
 
 ![Poster]()
 
@@ -17,12 +17,12 @@ Sebagai Proyek Akhir Capstone Studi Independent Di Infinite Learning Indonesia
 2. Aplikasi berinteraksi dengan Asisten Watson.
 3. Balasan dari Asisten Watson dikembalikan ke pengguna melalui aplikasi pada web.
 
-#Rangkuman
+# Rangkuman
 
-#Alur
+# Alur
 
-#Batasan
+# Batasan
 
-#Saran Objek
+# Saran Objek
 
 #
