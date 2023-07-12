@@ -14,7 +14,7 @@
 | Service IBM | Watson Assistant |
 
 # Alur
-![Poster](https://github.com/BOYKE09/Project-capstone-IL/blob/main/pattern.png)
+![Poster](https://github.com/BOYKE09/Project-capstone-IL/blob/main/Pattern.png)
 1. Masuk Akun ke IBM Cloud
 2. Menggunakan Watson Assistent
 
