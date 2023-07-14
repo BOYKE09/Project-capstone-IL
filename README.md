@@ -18,9 +18,3 @@ Kepulauan Riau (Kepri) adalah destinasi wisata yang menakjubkan di Indonesia. Te
 
 # Alur
 ![Poster](https://github.com/BOYKE09/Project-capstone-IL/blob/main/Pattern.png)
-
-# Batasan
-
-# Saran Objek
-
-#
